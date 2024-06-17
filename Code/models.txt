@@ -1,0 +1,5 @@
+1.house value.pkl
+2.Health insurance.pkl
+3.cancer prediction.pkl
+4.stock prediction.pkl
+5.weather prediction.pkl
